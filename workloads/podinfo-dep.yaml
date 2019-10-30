@@ -10,7 +10,7 @@ metadata:
     fluxcd.io/automated: "true"
     fluxcd.io/tag.init: regex:^3.10.*
     fluxcd.io/tag.podinfod: semver:~2.1
-    takky: hello
+    takky: feature
 spec:
   strategy:
     rollingUpdate:
